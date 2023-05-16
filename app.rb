@@ -2,11 +2,12 @@
 #     { id: 2, hello: "Ruby" }, 
 #     { id: 3, hello: "Moon" }, 
 #     { id: 4, hello: "Learner" }]
-
+puts "Hello World"
 # p [1,2,3]
 # puts "Hello World!"
 # print "Pass this test, please."
 # p [1,2,3]
+print "Pass this test,please"
 
 # def add
     
@@ -21,3 +22,5 @@ def add num1, num2
 end
 
 puts add(1,3) + add(2,2)
+
+p [1,2,3]
